@@ -34,6 +34,7 @@ Which products, regions, and sales representatives contribute the most to profit
 - COGS by City comparison  
 - Monthly Customer Trend  
 - Region and Category filters  
+<img width="380" height="285" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/17e8b5de-e3c8-4d99-9db8-af667d27a419" />
 
 ---
 
